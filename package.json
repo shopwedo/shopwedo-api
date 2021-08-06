@@ -2,7 +2,7 @@
   "name": "test-package",
   "version": "1.0.0",
   "description": "This is a test package",
-  "main": "index.js",
+  "main": "npm.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon index.js"
