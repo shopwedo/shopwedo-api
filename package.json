@@ -1,23 +1,15 @@
 {
-  "name": "shopwedo-client",
+  "name": "shopwedo-api",
   "version": "1.0.0",
   "description": "This is an npm package to use the ShopWeDo client.",
   "main": "npm.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon index.js",
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.1",
-    "cors": "^2.8.5",
     "crypto-js": "^4.1.1",
-    "dotenv": "^10.0.0",
-    "express": "^4.17.1",
-    "form-data": "^4.0.0",
-    "nodemon": "^2.0.12",
     "request": "^2.88.2"
   }
 }
