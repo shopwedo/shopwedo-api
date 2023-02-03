@@ -1,5 +1,5 @@
 {
-  "name": "shopwedo-api",
+  "name": "@shopwedo/shopwedoapi",
   "version": "1.2.0",
   "description": "This is an npm package to use the ShopWeDo client.",
   "main": "npm.js",
